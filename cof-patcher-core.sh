@@ -10,6 +10,8 @@ fi
 # Remove trailing slashes from path
 path=$(echo "$path" | sed 's:/*$::')
 
+echo "[*] Checking provided directory..."
+
 if ls $path 2> /dev/null; then
     echo "[+] Directory check passed"
 else
