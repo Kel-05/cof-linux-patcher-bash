@@ -19,11 +19,11 @@
   ```
 - Предоставьте патчеру права на выполнение:
   ```
-  chmod +x cof-patcher-core
+  chmod +x cof-patcher-core.sh
   ```
 - Запустите патчер:
   ```
-  ./cof-patcher-core
+  ./cof-patcher-core.sh <path/to/cryoffear>
   ```
   
 ---

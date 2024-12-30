@@ -3,7 +3,7 @@
 > 
 ![](/assets/logo.png)
 
-A patcher for Cry of Fear on Linux, addressing various bugs by replacing game build and engine libraries with patched versions. The patcher automates the process, making it easier for users to apply the necessary modifications. Written in C.
+A patcher for Cry of Fear on Linux, addressing various bugs by replacing game build and engine libraries with patched versions. The patcher automates the process, making it easier for users to apply the necessary modifications. Rewritten in Bash.
 > Вы также можете прочитать этот README на [Русском](README_RU.md) або прочитати його [Українською](README_UA.md) мовою.
 >
 
@@ -21,11 +21,11 @@ To use the core patcher follow these steps:
   ```
 - Grant patcher executable permissions:
   ```
-  chmod +x cof-patcher-core
+  chmod +x cof-patcher-core.sh
   ```
 - Run the patcher:
   ```
-  ./cof-patcher-core
+  ./cof-patcher-core.sh <path/to/cryoffear>
   ```
 ---
 The whole process will look similar to this:
@@ -86,3 +86,4 @@ Address     To    From
 - [Proton](https://github.com/ValveSoftware/Proton) - compability layer for running the game on Linux <br>
 - [SC-Cry-of-Fear-Weapons-Project](https://github.com/KernCore91/-SC-Cry-of-Fear-Weapons-Project) - README inspiration and logo :) <br>
 - [Andreas Rönnberg](https://www.facebook.com/andreas.rumpel.ronnberg) - Best person ever!!!
+- [hinqiwame](https://github.com/hinqiwame) - original script written in C
