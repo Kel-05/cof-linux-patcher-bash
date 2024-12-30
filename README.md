@@ -44,7 +44,7 @@ The whole process will look similar to this:
 [+] hw.dll replaced!
 [*] Replacing client.dll...
 [+] client.dll replaced!
-[*] Everything is done. Happy halloween! :)
+[*] Everything is done. Happy new year! :)
 ```
 <br>
 
