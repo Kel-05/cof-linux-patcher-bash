@@ -1,7 +1,7 @@
 # Cry of Fear Linux Patcher (Core)
 > v0.0.4 - You will find out why it's "core" now later :)
 > 
-![](/ass/logo.png)
+![](/assets/logo.png)
 
 A patcher for Cry of Fear on Linux, addressing various bugs by replacing game build and engine libraries with patched versions. The patcher automates the process, making it easier for users to apply the necessary modifications. Written in C.
 > Вы также можете прочитать этот README на [Русском](README_RU.md) або прочитати його [Українською](README_UA.md) мовою.
